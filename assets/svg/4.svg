@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="88" viewBox="0 0 174 88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e1e1e;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 45px;
+        font-family: SFProDisplay-Medium, SF Pro Display;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Group_29" data-name="Group 29" transform="translate(2436 -6007)">
+    <rect id="Rectangle_114" data-name="Rectangle 114" class="cls-1" width="174" height="88" transform="translate(-2436 6007)"/>
+    <text id="_4" data-name="4" class="cls-2" transform="translate(-2353 6067)"><tspan x="-13.964" y="0">4</tspan></text>
+  </g>
+</svg>

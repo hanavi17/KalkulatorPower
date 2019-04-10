@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Ochinator</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/responsive.css">
+</head>
+
+<body>
+	<div class="section">
+		<div class="navigation-margin">
+			<div class="navigation">
+				<a>
+					<div class="btn-dis">
+						<h1 id="title-dis">P</h1>
+						<h2 id="label-dis">Power</h2>
+					</div>
+				</a>
+				<a href="gain.html">
+					<div class="btn-link">
+						<h1 id="title">G</h1>
+						<h2 id="label">Gain</h2>
+					</div>
+				</a>
+				<a href="loss.html">
+					<div class="btn-link">
+						<h1 id="title">L</h1>
+						<h2 id="label">Loss</h2>
+					</div>
+				</a>
+			</div>
+		</div>
+
+		<div class="calculator">
+			<div class="field-calculator">
+				<!-- ColumnInput -->
+				<div class="label-title">
+					<h1>P</h1>
+				</div>
+
+				<div class="column-input">
+					<input type="number" id="input" value="" placeholder="Input">
+
+					<span class="custom-dropdown">
+						<select name="asal" id="asal">
+							<option id="dbw" value="dbw">DBW</option>
+							<option id="dbm" value="dbm">DBM</option>
+							<option id="w" value="w">W</option>
+							<option id="mw" value="mw">MW</option>
+						</select>
+					</span>
+
+					<input type="number" disabled id="output" value="" placeholder="Output">
+
+					<span class="custom-dropdown">
+						<select name="hasil" id="hasil">
+							<option id="dbw" value="dbw">DBW</option>
+							<option id="dbm" value="dbm">DBM</option>
+							<option id="w" value="w">W</option>
+							<option id="mw" value="mw">MW</option>
+						</select>
+					</span>
+				</div>
+
+				<div class="button-input">
+					<table>
+						<tr>
+							<td><button class="btn" onclick="btn('1')">1</button></td>
+							<td><button class="btn" onclick="btn('2')">2</button></td>
+							<td><button class="btn" onclick="btn('3')">3</button></td>
+						</tr>
+						<tr>
+							<td><button class="btn" onclick="btn('4')">4</button></td>
+							<td><button class="btn" onclick="btn('5')">5</button></td>
+							<td><button class="btn" onclick="btn('6')">6</button></td>
+						</tr>
+						<tr>
+							<td><button class="btn" onclick="btn('7')">7</button></td>
+							<td><button class="btn" onclick="btn('8')">8</button></td>
+							<td><button class="btn" onclick="btn('9')">9</button></td>
+						</tr>
+						<tr>
+							<td><button class="btn" onclick="btn('0')">0</button></td>
+							<td><button class="btn" onclick="koma()"><b>.</b></button></td>
+							<td><button class="btn" onclick="clr()">C</button></td>
+						</tr>
+						<tr>
+							<td><input class="hsl" onclick="Convert()" type="button" value="Convert" /></td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<a style="text-decoration: none" href="home.html">
+		<button class="button-back">Back Home</button>
+	</a>
+	<script type="text/javascript" src="js/konversi.js"></script>
+</body>
+
+</html>

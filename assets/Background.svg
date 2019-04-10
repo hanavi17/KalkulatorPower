@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="2973" viewBox="0 0 1920 2973">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ff6b0d;
+      }
+
+      .cls-2, .cls-3 {
+        opacity: 0.5;
+      }
+
+      .cls-3 {
+        fill: #ff6b0c;
+      }
+    </style>
+  </defs>
+  <g id="Group_38" data-name="Group 38" transform="translate(581 -5514)">
+    <rect id="Rectangle_131" data-name="Rectangle 131" class="cls-1" width="1920" height="2973" transform="translate(-581 5514)"/>
+    <path id="Intersection_33" data-name="Intersection 33" class="cls-2" d="M1910.147,2180.852l-577-577a120,120,0,0,1,0-169.706l577-577a121.32,121.32,0,0,1,9.852-8.835V2189.687A121.275,121.275,0,0,1,1910.147,2180.852Z" transform="translate(-581 5514)"/>
+    <path id="Intersection_32" data-name="Intersection 32" class="cls-3" d="M906.705,427.3l501.852,501.852a120,120,0,0,1,0,169.706L906.705,1600.7Z" transform="translate(-1487.705 5514)"/>
+  </g>
+</svg>

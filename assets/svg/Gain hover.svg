@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="554.867" height="260.598" viewBox="0 0 554.867 260.598">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #ff6b0d;
+      }
+
+      .cls-2, .cls-3, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-4 {
+        font-size: 70px;
+        font-family: SFProDisplay-Bold, SF Pro Display;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        opacity: 0.2;
+      }
+
+      .cls-6 {
+        font-size: 60px;
+        font-family: SFProDisplay-Medium, SF Pro Display;
+        font-weight: 500;
+      }
+
+      .cls-7 {
+        filter: url(#Rectangle_49);
+      }
+    </style>
+    <filter id="Rectangle_49" x="125.922" y="0" width="428.945" height="260.598" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_19" data-name="Group 19" transform="translate(2928.434 -4039.247)">
+    <rect id="Rectangle_40" data-name="Rectangle 40" class="cls-1" width="494.867" height="140.598" rx="37" transform="translate(-2928.434 4099.247)"/>
+    <g class="cls-7" transform="matrix(1, 0, 0, 1, -2928.43, 4039.25)">
+      <rect id="Rectangle_49-2" data-name="Rectangle 49" class="cls-2" width="308.945" height="140.598" rx="37" transform="translate(185.92 60)"/>
+    </g>
+    <path id="Intersection_20" data-name="Intersection 20" class="cls-3" d="M36.881,140.6A37,37,0,0,1,0,106.584V34.014A37,37,0,0,1,36.881,0h89.832l49.6,49.6a29,29,0,0,1,0,41.012L126.329,140.6Z" transform="translate(-2928.434 4099.246)"/>
+    <text id="G" class="cls-4" transform="translate(-2851.635 4192.146)"><tspan x="-25.447" y="0">G</tspan></text>
+    <path id="Intersection_30" data-name="Intersection 30" class="cls-5" d="M114.742,140.6,12.752,58.008A33,33,0,0,1,7.874,11.595L17.263,0H125.587a37,37,0,0,1,37,37v66.6a37,37,0,0,1-37,37Z" transform="translate(-2596.153 4099.247)"/>
+    <text id="Gain" class="cls-6" transform="translate(-2596.088 4189.546)"><tspan x="-59.736" y="0">Gain</tspan></text>
+  </g>
+</svg>

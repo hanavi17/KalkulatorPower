@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="355.999" height="88" viewBox="0 0 355.999 88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e1e1e;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #ff6b0d;
+      }
+
+      .cls-3 {
+        font-size: 50px;
+        font-family: SFProDisplay-Medium, SF Pro Display;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Group_25" data-name="Group 25" transform="translate(2254 -5815)">
+    <path id="Union_4" data-name="Union 4" class="cls-1" d="M1800-2708H1626v-88h356v88Z" transform="translate(-3880 8611)"/>
+    <g id="backspace-arrow" transform="translate(-2019 5761.5)">
+      <g id="backspace" transform="translate(0 76.5)">
+        <path id="Path_101" data-name="Path 101" class="cls-2" d="M51.036,76.5h-34.8a4.18,4.18,0,0,0-3.712,2.088L0,97.379l12.527,18.791a4.724,4.724,0,0,0,3.712,2.088h34.8a4.653,4.653,0,0,0,4.64-4.64V81.14A4.653,4.653,0,0,0,51.036,76.5Zm-6.96,29.23-3.248,3.248-8.351-8.351-8.351,8.351-3.248-3.248,8.351-8.351-8.351-8.351,3.248-3.248,8.351,8.351,8.351-8.351,3.248,3.248-8.351,8.351Z" transform="translate(0 -76.5)"/>
+      </g>
+    </g>
+    <text id="Delete" class="cls-3" transform="translate(-2110 5877)"><tspan x="-69.897" y="0">Delete</tspan></text>
+  </g>
+</svg>
